@@ -29,6 +29,8 @@
   },
   "type": "module",
   "dependencies": {
-    "@sveltejs/adapter-static": "^1.0.0-next.22"
+    "@sveltejs/adapter-static": "^1.0.0-next.22",
+    "node-sass": "^7.0.1",
+    "pug": "^3.0.2"
   }
 }
